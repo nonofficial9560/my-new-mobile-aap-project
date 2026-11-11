@@ -1,0 +1,6 @@
+{
+  "appId": "com.homebudget.mobile",
+  "appName": "Home Budget",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
